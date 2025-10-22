@@ -40,7 +40,4 @@ Hệ thống gồm các bảng chính:
 - CSDL có thể mở rộng thêm bảng như `achievements`, `leaderboards`, hoặc `game_sessions` nếu hệ thống phát triển thêm.
 - Tất cả các file trong dự án nên được lưu trong Git để theo dõi thay đổi.
 
----
 
-Bạn có muốn mình giúp **viết phiên bản README.md cụ thể** cho **dự án game platform của bạn** (dựa trên các bảng bạn đã có trong file SQL) không?  
-→ Nếu có, bạn gửi mình nội dung file `ddl_scripts.sql` hoặc danh sách các bảng (vd: users, games, orders, payments...) để mình viết đúng và chi tiết luôn.
