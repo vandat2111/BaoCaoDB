@@ -40,4 +40,10 @@ Hệ thống gồm các bảng chính:
 - CSDL có thể mở rộng thêm bảng như `achievements`, `leaderboards`, hoặc `game_sessions` nếu hệ thống phát triển thêm.
 - Tất cả các file trong dự án nên được lưu trong Git để theo dõi thay đổi.
 
+---
+
+## 🔄 Regular Updates
+- Tài liệu và mã nguồn SQL được cập nhật mỗi khi có thay đổi trong cấu trúc cơ sở dữ liệu.  
+- Các bản cập nhật sẽ được commit lên GitHub để theo dõi lịch sử và đảm bảo tính nhất quán.  
+- Việc duy trì cập nhật giúp dự án luôn phản ánh đúng trạng thái hệ thống hiện tại.
 
